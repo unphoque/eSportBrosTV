@@ -1,1 +1,0 @@
-# Ligue ebTV Discord bot
