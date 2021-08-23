@@ -1,0 +1,25 @@
+{
+  "guild": {
+    "id": "",
+    "name": "",
+    "cmd": "",
+    "log": "",
+    "leaders":"",
+    "organizers": [],
+    "today": {
+      "channel":"",
+      "msg":""
+    },
+    "casters":[
+    {
+      "id":"",
+      "fc":""
+    }
+    ]
+  },
+  "toornament": {
+    "id": "1523895530663616512",
+    "url": "",
+    "struct": ""
+  }
+}

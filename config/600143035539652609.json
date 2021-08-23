@@ -1,0 +1,18 @@
+{
+  "guild": {
+    "id": "600143035539652609",
+    "name": "Ligue EBTV Mario Kart",
+    "cmd": "",
+    "log": "",
+    "leaders": "",
+    "organizers": [],
+    "today": { "channel": "", "msg": "" },
+    "casters": [
+      {
+        "id": "",
+        "fc": ""
+      }
+    ]
+  },
+  "toornament": { "id": "1523895530663616512", "url": "", "struct": "" }
+}
